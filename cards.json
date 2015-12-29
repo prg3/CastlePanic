@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Archer",
+    "inHand":false,
+    "discard":false,
+    "special":false,
+    "range": [
+      3
+    ],
+    "strength": 1,
+    "regions": [
+      1,
+      2
+    ]
+},
+  {
+    "name": "Hero",
+    "inHand":false,
+    "discard":false,
+    "special":false,
+    "range": [
+      2,
+      3,
+      4
+    ],
+    "strength": 1,
+    "regions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "name": "Barbarian",
+    "inHand":false,
+    "discard":false,
+    "special":false,    
+    "range": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "strength": 5,
+    "regions": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "name": "Nice Shot",
+    "inHand":false,
+    "discard":false,
+    "special":true,
+    "function" : "NiceShot"
+  },
+  {
+    "name":"Scavenge",
+    "inHand":false,
+    "discard":false,
+    "special":true,
+    "function":"Scavenge"
+  },
+  {
+    "name":"Fortify Wall",
+    "inHand":false,
+    "discard":false,
+    "special":true,
+    "function":"Fortify"
+  },
+  {
+    "name":"Draw 2 Cards",
+    "inHand":false,
+    "discard":false,
+    "special":true,
+    "function":"Draw2"
+  },
+  {
+    "name":"Drive Him Back",
+    "inHand":false,
+    "discard":false,
+    "special":true,
+    "function":"Drive"
+  },
+  {
+    "name":"Missing",
+    "inHand":false,
+    "discard":false,
+    "special":true,
+    "function":"Missing"
+  },
+  {
+    "name":"Tar",
+    "inHand":false,
+    "discard":false,
+    "special":true,
+    "function":"Tar"
+  },
+  {
+    "name":"Mortar",
+    "inHand":false,
+    "discard":false,
+    "special":true,
+    "function":"BrickMortar"
+  },
+  {
+    "name":"Brick",
+    "inHand":false,
+    "discard":false,
+    "special":true,
+    "function":"BrickMortar"
+  }
+]
+
